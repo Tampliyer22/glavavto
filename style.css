@@ -288,7 +288,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 10vh;
+    height: auto;
     padding-top: 3vh;
     text-align: center;
 }
@@ -323,3 +323,4 @@ footer{
         flex-direction: column;
     }
 }
+
